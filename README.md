@@ -10,3 +10,5 @@ The demo is hosted on Netlify. Minimal configuration required thanks to [the nex
 next-on-netlify makes server-side rendering possible by using Netlify functions under the hood.
 
 Get started with next-on-netlify: [https://github.com/netlify/next-on-netlify#installation](https://github.com/netlify/next-on-netlify#installation)
+
+test trigger
