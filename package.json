@@ -1,9 +1,9 @@
 {
   "name": "next-on-netlify-demo",
   "scripts": {
-    "dev": "NODE_OPTIONS=\"--openssl-legacy-provider\" next",
+    "dev": "next",
     "build": "next build",
-    "postbuild": "NODE_OPTIONS=\"--openssl-legacy-provider\" next-on-netlify"
+    "postbuild": "next-on-netlify"
   },
   "dependencies": {
     "next": "^9.5.4",
