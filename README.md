@@ -11,4 +11,4 @@ next-on-netlify makes server-side rendering possible by using Netlify functions 
 
 Get started with next-on-netlify: [https://github.com/netlify/next-on-netlify#installation](https://github.com/netlify/next-on-netlify#installation)
 
-test trigger
+test trigger 
